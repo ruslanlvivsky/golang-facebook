@@ -9,4 +9,4 @@ Read, implement, test, or organize Golang Korea Facebook posts every week.
 
 ### Memory
 
-- [[번역] Go 언어의 메모리 관리](https://www.facebook.com/groups/golangko/permalink/1988811434629659/)
+- [[번역] Go 언어의 메모리 관리](https://github.com/sangjinsu/golang-facebook/tree/main/memory)
